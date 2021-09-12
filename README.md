@@ -9,16 +9,19 @@ npm install
 ```
 npm run serve
 ```
+### Socket
+
+After going into the server folder and doing npm install, run the socket side with npm run start
+
+### Json Server
+
+Run the database partition with json-server --watch db.json
 
 ### Compiles and minifies for production
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
