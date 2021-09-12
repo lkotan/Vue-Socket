@@ -1,0 +1,25 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Vue"
+    },
+    {
+      "id": 2,
+      "name": "React"
+    },
+    {
+      "id": 3,
+      "name": "Node"
+    },
+    {
+      "id": 4,
+      "name": "Socket"
+    },
+    {
+      "id": 5,
+      "name": "JavaScript"
+    }
+  ],
+  "users": []
+}
